@@ -21,6 +21,7 @@
 // @license     MIT
 // @grant       none
 // @run-at      document-start
+// ==/UserScript==
      
 (function() {
     const currentUrl = window.location.href;
